@@ -1,1 +1,1 @@
-echo'Enter ne file'
+echo'Enter new file'
